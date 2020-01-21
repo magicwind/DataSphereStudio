@@ -51,7 +51,7 @@
         <linkis.version>0.9.1</linkis.version>
         <scala.version>2.11.8</scala.version>
         <jdk.compile.version>1.8</jdk.compile.version>
-        <maven.version>3.3.3</maven.version>
+        <maven.version>3.5.2</maven.version>
     </properties>
     <dependencies>
         <dependency>

@@ -440,6 +440,7 @@ export default {
           postType: this.postType,
           source: {
             scriptPath: this.work.filepath || this.work.filename,
+            fileName: this.work.filename
           },
         },
       };
